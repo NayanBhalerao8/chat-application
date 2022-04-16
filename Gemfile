@@ -7,6 +7,8 @@ ruby '2.3.4'
 gem 'rails', '~> 5.2.7'
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
+gem 'hirb'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
